@@ -14,7 +14,7 @@ class MyClass {
 
        int qsegundos = segundos;
 
-       System.out.println(horas + ":" + minutos +":" + qsegundos + ":");
+       System.out.println(horas + ":" + minutos +":" + qsegundos );
 
     }
 }
